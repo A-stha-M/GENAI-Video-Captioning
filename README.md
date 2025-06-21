@@ -31,3 +31,10 @@ Clone this project repository to your local machine.
 git clone <your-repository-url>
 cd GENAI-Video-Captioning
 
+### 3. Install Dependencies
+All required Python libraries should be in requirements.txt. Install them using pip:
+```bash
+pip install -r requirements.txt
+
+
+
